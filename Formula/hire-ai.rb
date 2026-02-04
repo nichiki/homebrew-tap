@@ -3,8 +3,8 @@ class HireAi < Formula
 
   desc "CLI to orchestrate AI agents (Claude, Codex, Gemini)"
   homepage "https://github.com/nichiki/hire-ai"
-  url "https://files.pythonhosted.org/packages/cf/5d/b1eb956c167792b6d82af220947e3d57e9bdfe15b277e3037199e3458b88/hire_ai-0.1.1.tar.gz"
-  sha256 "a130a9e5096fa65753ba9846f29c10b627fbfa14983f1d471a175be92e70ab0d"
+  url "https://files.pythonhosted.org/packages/be/75/bdd7cb0090fe42a347a787ee8a823073dd8f11ed3c1efff495f47516b91d/hire_ai-0.1.2.tar.gz"
+  sha256 "90d96ab797a338dafb716cc42917ad01e428e604163e1e9f28d1cb438ff4187e"
   license "MIT"
 
   depends_on "python@3.12"
