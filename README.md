@@ -6,11 +6,11 @@ Custom Homebrew formulas by nichiki.
 
 ```bash
 brew tap nichiki/tap
-brew install hire
+brew install hire-ai
 ```
 
 ## Formulas
 
 | Formula | Description |
 |---------|-------------|
-| [hire](Formula/hire.rb) | CLI to orchestrate AI agents (Claude, Codex, Gemini) |
+| [hire-ai](Formula/hire-ai.rb) | CLI to orchestrate AI agents (Claude, Codex, Gemini) |

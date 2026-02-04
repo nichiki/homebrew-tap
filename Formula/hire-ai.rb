@@ -1,4 +1,4 @@
-class Hire < Formula
+class HireAi < Formula
   include Language::Python::Virtualenv
 
   desc "CLI to orchestrate AI agents (Claude, Codex, Gemini)"
