@@ -1,10 +1,10 @@
 class HireAi < Formula
   include Language::Python::Virtualenv
 
-  desc "CLI to orchestrate AI agents (Claude, Codex, Gemini)"
+  desc "CLI to orchestrate AI agents (Claude, Codex, Gemini, Grok)"
   homepage "https://github.com/nichiki/hire-ai"
-  url "https://files.pythonhosted.org/packages/8a/d1/fe16e808e788afd46b3f33b3d2ace5d82e5e8b6bdb9ff857c2a78686f555/hire_ai-0.1.6.tar.gz"
-  sha256 "8c86ef4af4824d4195ce66ca7296b4e1848b84c169186575b094b05f8a5445a2"
+  url "https://files.pythonhosted.org/packages/d1/d6/828ff46596f5dfe87ffaea7bb6406c079e3de4fa86af2764b7b71f19091a/hire_ai-0.1.7.tar.gz"
+  sha256 "850fa27c0d5df83b0d2b33e1c8082940306639c449880b09cd2e0452a1c272c7"
   license "MIT"
 
   depends_on "python@3.12"
